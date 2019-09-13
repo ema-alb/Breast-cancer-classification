@@ -3,8 +3,8 @@
 Analysis of a breast cancer dataset.
 
 ## Tools
-- Jupyter notebook
-- Python 3.6 and common machine learning and scientific libraries
+- Jupyter notebook.
+- Python 3.6 and common machine learning and scientific libraries.
 
 ## Dataset
 Dataset con be found at [National Cancer Institute - Genomic Data Commons](https://portal.gdc.cancer.gov/).
