@@ -10,4 +10,4 @@ Analysis of a breast cancer dataset.
 Dataset con be found at [National Cancer Institute - Genomic Data Commons](https://portal.gdc.cancer.gov/).
 
 
-[Visualization] https://nbviewer.jupyter.org/github/DarioFontanel/Breast-cancer-classification/blob/master/main.ipynb of the Jupyter notebook available.
+[Visualization](https://nbviewer.jupyter.org/github/DarioFontanel/Breast-cancer-classification/blob/master/main.ipynb) of the Jupyter notebook available.
