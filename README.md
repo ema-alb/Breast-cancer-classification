@@ -1,7 +1,12 @@
 # Breast cancer classification
 
-Analysis of a breast cancer dataset using Python 3.6 and common machine learning algorithms.
+Analysis of a breast cancer dataset
 
-Dataset con be found at: https://portal.gdc.cancer.gov/
+## Tools
+Python 3.6 and common machine learning and scientific libraries.
 
-Visualization of the Jupyter notebook at: https://nbviewer.jupyter.org/github/DarioFontanel/Breast-cancer-classification/blob/master/main.ipynb
+## Dataset
+Dataset con be found at [National Cancer Institute - Genomic Data Commons](https://portal.gdc.cancer.gov/) 
+
+
+[Visualization] https://nbviewer.jupyter.org/github/DarioFontanel/Breast-cancer-classification/blob/master/main.ipynb of the Jupyter notebook available
